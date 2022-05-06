@@ -260,3 +260,6 @@ appads.in, 106246, RESELLER
 appads.in, 107606, RESELLER
 
 unity.com, 3909751, DIRECT, 96cabb5fbdde37a7
+bidease.com, exchange-20, RESELLER
+
+admixplay.com, 2012, RESELLER
